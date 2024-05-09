@@ -1,0 +1,10 @@
+#test {
+    color: red;
+    width: 100px;
+    height: 20px;
+    background-color: blueviolet;
+}
+
+#test:hover {
+    background-color: brown;
+}
